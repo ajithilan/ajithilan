@@ -57,3 +57,13 @@
 </picture>
 
 ###
+
+## 🚀 Featured Professional Work
+*A collection of high-traffic, industry-grade products I have helped architect and scale.*
+
+| Product | Tech Stack | Link |
+| :--- | :--- | :--- |
+| **Garuda Aerospace** | NextJS, TS, Tailwind | [Live Site ↗️](https://www.garudaaerospace.com) |
+| **Apothecon Pharma** | NextJS, TS, Tailwind, GSAP, SwiperJS | [Live Site ↗️](https://www.apotheconpharma.com) |
+| **Kaushalya Genius Kid Program** | NextJS, TS, Tailwind, Formik | [Live Site ↗️](https://www.kaushalyageniuskid.com) |
+| **SFC Technologies** | NextJS, TS, Tailwind, GSAP, SwiperJS | [Live Site ↗️](https://sfcenvironment.com) |
