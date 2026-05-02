@@ -65,5 +65,6 @@
 | :--- | :--- | :--- |
 | **Garuda Aerospace** | NextJS, TS, Tailwind | [Live Site ↗️](https://www.garudaaerospace.com) |
 | **Apothecon Pharma** | NextJS, TS, Tailwind, GSAP, SwiperJS | [Live Site ↗️](https://www.apotheconpharma.com) |
+| **ContentDeck** | ReactJS, TS, Tailwind, GSAP, Firebase, Razorpay, dexie, React-DND | [Live Site ↗️](https://contentdeck.in) |
 | **Kaushalya Genius Kid Program** | NextJS, TS, Tailwind, Formik | [Live Site ↗️](https://www.kaushalyageniuskid.com) |
 | **SFC Technologies** | NextJS, TS, Tailwind, GSAP, SwiperJS | [Live Site ↗️](https://sfcenvironment.com) |
